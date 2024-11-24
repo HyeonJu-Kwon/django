@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa5ceea-7da4-490a-b11f-3353d855502d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dcuclubs_backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clubs/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clubs/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="cfa5ceea-7da4-490a-b11f-3353d855502d" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +50,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -123,6 +114,7 @@
       <workItem from="1731903504464" duration="2758000" />
       <workItem from="1732076342239" duration="1300000" />
       <workItem from="1732455750472" duration="104000" />
+      <workItem from="1732455972234" duration="304000" />
     </task>
     <servers />
   </component>
